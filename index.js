@@ -1,7 +1,7 @@
 'use strict';
 
 var through = require('through2');
-var ngDep = require('ng-dependencies');
+var ngDep = require('@visaruruqi/ng-dependencies');
 var toposort = require('toposort');
 var PluginError = require('plugin-error');
 
